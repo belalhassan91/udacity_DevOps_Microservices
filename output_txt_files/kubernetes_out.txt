@@ -1,1 +1,5 @@
-<paste log output from Kubernetes-mediated prediction, here>
+from server (AlreadyExists): deployments.apps "kubernetes-project" already exists
+NAME                                 READY   STATUS    RESTARTS   AGE
+kubernetes-project-744dc4c67-lhx8n   1/1     Running   0          42m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
